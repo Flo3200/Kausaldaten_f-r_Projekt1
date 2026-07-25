@@ -3,6 +3,8 @@ import json
 
 G = nx.DiGraph()
 
+print("done")
+
 def kante_hinzufuegen...
 
 kausaldaten = [
