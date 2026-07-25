@@ -1,9 +1,4 @@
-import networkx as nx
-import json
 
-G = nx.DiGraph()
-
-def kante_hinzufuegen...
 
 kausaldaten = [
   {
